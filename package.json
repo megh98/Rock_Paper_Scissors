@@ -6,16 +6,9 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/megh98/Rock_Paper_Scissors.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/megh98/Rock_Paper_Scissors/issues"
-  },
   "homepage": "https://megh98.github.io/Rock_Paper_Scissors",
   "dependencies": {
     "gh-pages": "^2.1.1"
